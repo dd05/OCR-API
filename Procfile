@@ -1,0 +1,1 @@
+web: python liveocr.py
