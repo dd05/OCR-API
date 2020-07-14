@@ -3,7 +3,7 @@ Flask-API==1.0
 Flask-Cors==3.0.3
 Flask-SQLAlchemy==2.3.2
 numpy==1.13.3
-pillow==4.2.1
+pillow==7.2.0
 keras==2.1.5
 tensorflow==1.15.2
 h5py==2.7.0
