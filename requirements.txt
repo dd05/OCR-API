@@ -1,6 +1,6 @@
 Flask==1.0
 Flask-API==1.0
-Flask-Cors==3.0.3
+Flask-Cors==3.0.9
 Flask-SQLAlchemy==2.3.2
 numpy==1.13.3
 pillow==7.2.0
